@@ -19,11 +19,11 @@ This project to get insights from dataset collects information from 100k medical
   - No-show : it says ‘No’ if the patient showed up to their appointment, and ‘Yes’ if they did not show up.
   
 ## Analysis Questions in This Report
-What is the proportion of neighbourhood?
-Which gender often went to the doctor? (Male/Female)
-What is the proportion of patients which enrolled in the scholarship program?
-What is the patient more suffer from?
-What is the age distribution for hipertension patients?
+  1- What is the proportion of neighbourhood?
+  2- Which gender often went to the doctor? (Male/Female)
+  3- What is the proportion of patients which enrolled in the scholarship program?
+  4- What is the patient more suffer from?
+  5- What is the age distribution for hipertension patients?
 
 ## Conclusions
   ### Findings:
