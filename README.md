@@ -1,7 +1,23 @@
 # No-show-appointment
-This project to get insights from dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment and a number of characteristics about the patient are included in each row.
+
+This project is a part of **Udacity ALX-T Data Analyst Nanodegree**.
+
+## Project Requirements:
+
+- Choose the Data Set.
+
+- Analyze Your Data
+
+- Try and suggest questions that promote looking at relationships between multiple variables.
+
+- It should aim to analyze **at least one dependent variable and three independent variables in the investigation**.
+
+- Share the findings.
+
 
 ## Dataset Description:- [Dataset Link](https://www.kaggle.com/datasets/joniarroba/noshowappointments)
+
+Dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment and a number of characteristics about the patient are included in each row.
 
   - PatientId : the Id of the patient.
   - AppointmentID : the Id of the patient appointment.
